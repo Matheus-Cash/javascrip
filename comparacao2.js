@@ -8,3 +8,5 @@ if (idadeCliente >= idadeMinima) {
 }
 
 console.log(idadeCliente >= idadeMinima);
+
+console.log(idadeCliente >= idadeMimima ? 'cerveja' : suco)
