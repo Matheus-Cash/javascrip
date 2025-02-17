@@ -1,7 +1,7 @@
-const none = 'Palito157';
+const nome = 'Palito157';
 const idade = 2025 - 1989;
-const cidadeDeNascimento = 'cidadeDoGrau';
+const cidadeNascimento = 'cidadeDoGrau';
 
-const apresentacao = `meu nome é ${nome}, minha idade é ${idade} e nasci em ${cidadeNascimento};
+const apresentacao = `Meu nome é ${nome}, minha idade é ${idade} e nasci em ${cidadeNascimento}.`;
 
-console.log(apresentacao)
+console.log(apresentacao);
