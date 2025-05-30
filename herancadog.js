@@ -22,3 +22,7 @@ class Cachorro extends Animal{
      
 
 }
+
+const Mend = new Cachorro ("Mend")
+console.log(Mend.abanarRabo());
+console.log(Mend.emitirSom());
