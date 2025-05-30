@@ -20,7 +20,7 @@ class Cachorro extends Animal{
         return `${this.none}abanou o rabinho`
     }
     morderPia(){
-        return `${this.nome}mordeu o pia`
+        return `${this.nome}mordeu um pia`
     }
      
 
