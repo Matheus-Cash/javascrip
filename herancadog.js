@@ -19,6 +19,9 @@ class Cachorro extends Animal{
     abanarRabo(){
         return `${this.none}abanou o rabinho`
     }
+    morderPia(){
+        return `${this.nome}mordeu o pia`
+    }
      
 
 }
@@ -26,3 +29,4 @@ class Cachorro extends Animal{
 const Mend = new Cachorro ("Mend")
 console.log(Mend.abanarRabo());
 console.log(Mend.emitirSom());
+console.log(Mend.morderPia());
